@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.idea/
+apk/
+# bots' output: debug frames, saved state, logs
+debug/
+state/
+logs/
+*.log
+# built locally (see docs/memreader.md)
+native/memreader/inttimem
